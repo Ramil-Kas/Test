@@ -1,5 +1,4 @@
 # Hello, World!
 
-i study in Netology
+0000
 
-07.58.69
